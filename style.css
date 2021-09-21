@@ -123,8 +123,3 @@ body{
     transition-timing-function: ease-in;
     transition: all 0.5s;
 }
-
-.nav-black{
-    background-color: #111;
-
-}
